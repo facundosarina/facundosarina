@@ -6,5 +6,5 @@ Before automation, I spent 8+ years running exactly this kind of work by hand in
 
 - 🔧 **Tools:** n8n, Python, Streamlit, Google Sheets/Apps Script, Make.com, Zapier, REST APIs & webhooks
 - 🌎 **Languages:** Spanish (native) · English · Italian
-- 💼 **Available for freelance automation work** — see my projects: [n8n-request-tracker](https://github.com/facundosarina/n8n-request-tracker) (form validation, deduplication, and routing built end-to-end) and [expense-tracker-dashboard](https://github.com/facundosarina/expense-tracker-dashboard) (Python + Streamlit dashboard with automatic category detection)
+- 💼 **Available for freelance automation work** — see my projects: [Fila Limpia](https://github.com/facundosarina/spreadsheet-cleaner) (cleans messy client and payment spreadsheets, and hands back for review whatever it will not guess at), [n8n-request-tracker](https://github.com/facundosarina/n8n-request-tracker) (form validation, deduplication, and routing built end-to-end) and [expense-tracker-dashboard](https://github.com/facundosarina/expense-tracker-dashboard) (Python + Streamlit dashboard with automatic category detection)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/facundo-sarina/) · [Workana](https://www.workana.com/freelancer/e77e2133ac2a73aacd51029bb5e7f473)
